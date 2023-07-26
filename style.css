@@ -1,0 +1,48 @@
+.newsletter{
+    
+    width: auto;
+    padding-left: 5px;
+    padding-right: 5px;
+
+    border:blank;
+}
+h2{
+    text-align: center;
+    text-decoration: underline;
+    color: blueviolet;
+
+}
+.service{
+    background-color:rgba(58, 222, 91, 0.796);
+    color: black;
+    padding-left: 5px;
+   
+}
+h6{
+    color: blue;
+    text-decoration: solid;
+    text-align: center;
+}
+h3{
+    text-align: center;
+    text-decoration: underline;
+    color: aqua;
+}
+#headerr{
+    background-size: cover;
+    overflow: hidden;
+}
+
+
+#aboutimg{
+    min-height: 400px;
+    
+}
+.hhh{
+    position:relative;
+    
+}
+.img-fluid{
+    position: absolute;
+    
+}
